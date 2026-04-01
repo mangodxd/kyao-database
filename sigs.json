@@ -50,6 +50,16 @@
       "x": 0.7262616940757367,
       "y": 0.8783063766587177,
       "createdAt": 1775059418242
+    },
+    {
+      "id": "1775059448221",
+      "name": "Thanh Thảo",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775059449372_344.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.42854994193215673,
+      "y": 0.8805902014491299,
+      "createdAt": 1775059448221
     }
   ]
 }
