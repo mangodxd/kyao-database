@@ -7,8 +7,8 @@
       "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775040108845_492.png",
       "color": "#1a1a2e",
       "side": "front",
-      "x": 0.5000000000000000,
-      "y": 0.5200000000000000,
+      "x": 0.5,
+      "y": 0.52,
       "createdAt": 1775040108462
     },
     {
@@ -17,8 +17,8 @@
       "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775056100951_746.png",
       "color": "#1a1a2e",
       "side": "front",
-      "x": 0.6800000000000000,
-      "y": 0.2500000000000000,
+      "x": 0.68,
+      "y": 0.25,
       "createdAt": 1775056100675
     },
     {
@@ -27,8 +27,8 @@
       "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775056684489_728.png",
       "color": "#1a1a2e",
       "side": "front",
-      "x": 0.6200000000000000,
-      "y": 0.7500000000000000,
+      "x": 0.62,
+      "y": 0.75,
       "createdAt": 1775056683964
     },
     {
@@ -37,9 +37,19 @@
       "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775056989977_157.png",
       "color": "#1a1a2e",
       "side": "front",
-      "x": 0.3200000000000000,
-      "y": 0.3000000000000000,
+      "x": 0.32,
+      "y": 0.3,
       "createdAt": 1775056989360
+    },
+    {
+      "id": "1775059418242",
+      "name": "uyên",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775059415843_206.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.7262616940757367,
+      "y": 0.8783063766587177,
+      "createdAt": 1775059418242
     }
   ]
 }
