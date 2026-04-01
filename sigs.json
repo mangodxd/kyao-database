@@ -30,6 +30,16 @@
       "x": 0.7129019059937738,
       "y": 0.7641259459351524,
       "createdAt": 1775056683964
+    },
+    {
+      "id": "1775056989360",
+      "name": "Lê Quỳnh",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775056989977_157.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.4158150824815141,
+      "y": 0.2783288740908039,
+      "createdAt": 1775056989360
     }
   ]
 }
