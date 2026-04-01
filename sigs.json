@@ -1,4 +1,15 @@
 {
   "ownerName": "Nguyễn Công Thuận Huy",
-  "signatures": []
+  "signatures": [
+    {
+      "id": "1775035423527",
+      "name": "huy",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775035423547_382.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.4604166367474724,
+      "y": 0.25592460721244903,
+      "createdAt": 1775035423527
+    }
+  ]
 }
