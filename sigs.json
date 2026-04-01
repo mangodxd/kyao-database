@@ -10,6 +10,16 @@
       "x": 0.47593582887700536,
       "y": 0.4820295983086681,
       "createdAt": 1775040108462
+    },
+    {
+      "id": "1775056100675",
+      "name": "sâu",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775056100951_746.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.5948043475564742,
+      "y": 0.24042400201972916,
+      "createdAt": 1775056100675
     }
   ]
 }
