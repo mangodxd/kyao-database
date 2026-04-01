@@ -20,6 +20,16 @@
       "x": 0.5948043475564742,
       "y": 0.24042400201972916,
       "createdAt": 1775056100675
+    },
+    {
+      "id": "1775056683964",
+      "name": "là thiện",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775056684489_728.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.7129019059937738,
+      "y": 0.7641259459351524,
+      "createdAt": 1775056683964
     }
   ]
 }
