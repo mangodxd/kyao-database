@@ -10,6 +10,16 @@
       "x": 0.4604166367474724,
       "y": 0.25592460721244903,
       "createdAt": 1775035423527
+    },
+    {
+      "id": "1775040108462",
+      "name": "Đặng Nguyễn Ngọc Tùng",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775040108845_492.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.47593582887700536,
+      "y": 0.4820295983086681,
+      "createdAt": 1775040108462
     }
   ]
 }
