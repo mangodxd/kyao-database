@@ -60,16 +60,6 @@
       "x": 0.42854994193215673,
       "y": 0.8805902014491299,
       "createdAt": 1775059448221
-    },
-    {
-      "id": "1775059556722",
-      "name": "abcxyz",
-      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775059586463_172.png",
-      "color": "#1a1a2e",
-      "side": "front",
-      "x": 0.32365418598854795,
-      "y": 0.6647533609219063,
-      "createdAt": 1775059556722
     }
   ]
 }
