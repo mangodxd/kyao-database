@@ -60,6 +60,16 @@
       "x": 0.42854994193215673,
       "y": 0.8805902014491299,
       "createdAt": 1775059448221
+    },
+    {
+      "id": "1775061291453",
+      "name": "Diệu Hân",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775061292392_632.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.34626865671641793,
+      "y": 0.6721698113207547,
+      "createdAt": 1775061291453
     }
   ]
 }
