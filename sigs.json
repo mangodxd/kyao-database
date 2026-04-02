@@ -150,6 +150,16 @@
       "x": 0.603125,
       "y": 0.6452410383189122,
       "createdAt": 1775124444869
+    },
+    {
+      "id": "1775124601170",
+      "name": "Hằng",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775124602783_759.png",
+      "color": "#e63946",
+      "side": "front",
+      "x": 0.6273076628555221,
+      "y": 0.5606336949520396,
+      "createdAt": 1775124601170
     }
   ]
 }
