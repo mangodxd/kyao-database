@@ -130,6 +130,16 @@
       "x": 0.3953487965917546,
       "y": 0.35909224807926315,
       "createdAt": 1775124161627
+    },
+    {
+      "id": "1775124189518",
+      "name": "Tường Khanh",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775124219992_547.png",
+      "color": "#9b5de5",
+      "side": "front",
+      "x": 0.25771356367950277,
+      "y": 0.4701862511082169,
+      "createdAt": 1775124189518
     }
   ]
 }
