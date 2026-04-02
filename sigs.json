@@ -2,7 +2,7 @@
   "ownerName": "Nguyễn Công Thuận Huy",
   "signatures": [
     {
-      "id": "1775040108462",
+      "id": "1775040108462"
       "name": "Đặng Nguyễn Ngọc Tùng",
       "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775040108845_492.png",
       "color": "#1a1a2e",
@@ -82,16 +82,6 @@
       "createdAt": 1775062190855
     },
     {
-      "id": "1775086351239",
-      "name": "lkp",
-      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775086322925_805.png",
-      "color": "#1a1a2e",
-      "side": "front",
-      "x": 0.7111266064612944,
-      "y": 0.3887218084373184,
-      "createdAt": 1775086351239
-    },
-    {
       "id": "1775104537392",
       "name": "Mkhangdz",
       "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775104538887_774.png",
@@ -100,16 +90,6 @@
       "x": 0.5187165775401069,
       "y": 0.4312896405919662,
       "createdAt": 1775104537392
-    },
-    {
-      "id": "1775124050644",
-      "name": "Bảo",
-      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775124052355_77.png",
-      "color": "#1a1a2e",
-      "side": "front",
-      "x": 0.6336077353488071,
-      "y": 0.3077122504542594,
-      "createdAt": 1775124050644
     },
     {
       "id": "1775124150354",
