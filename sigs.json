@@ -150,6 +150,16 @@
       "x": 0.32620320855614976,
       "y": 0.16701902748414377,
       "createdAt": 1775124650744
+    },
+    {
+      "id": "1775132259776",
+      "name": "Nguyễn Hội",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775132260099_175.png",
+      "color": "#1a1a2e",
+      "side": "front",
+      "x": 0.6337209302325582,
+      "y": 0.12123530573389996,
+      "createdAt": 1775132259777
     }
   ]
 }
