@@ -160,6 +160,16 @@
       "x": 0.6273076628555221,
       "y": 0.5606336949520396,
       "createdAt": 1775124601170
+    },
+    {
+      "id": "1775124650744",
+      "name": "mthu",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775124651484_877.png",
+      "color": "#b51a00",
+      "side": "front",
+      "x": 0.32620320855614976,
+      "y": 0.16701902748414377,
+      "createdAt": 1775124650744
     }
   ]
 }
