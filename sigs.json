@@ -110,6 +110,16 @@
       "x": 0.6336077353488071,
       "y": 0.3077122504542594,
       "createdAt": 1775124050644
+    },
+    {
+      "id": "1775124150354",
+      "name": "Hà giangg",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775124150591_232.png",
+      "color": "#ee719e",
+      "side": "back",
+      "x": 0.561304148455915,
+      "y": 0.25235304862312735,
+      "createdAt": 1775124150354
     }
   ]
 }
