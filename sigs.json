@@ -160,6 +160,16 @@
       "x": 0.6337209302325582,
       "y": 0.12123530573389996,
       "createdAt": 1775132259777
+    },
+    {
+      "id": "1775228422098",
+      "name": "Trần Khắc Thắng",
+      "signature": "https://raw.githubusercontent.com/mangodxd/kyao-database/main/signatures/sig_1775228371966_889.png",
+      "color": "#938348",
+      "side": "front",
+      "x": 0.6573478779054679,
+      "y": 0.6687866670579615,
+      "createdAt": 1775228422098
     }
   ]
 }
